@@ -130,11 +130,11 @@ MIT
 MIT
 MIT
 
-@angular/router@5.2.10
+@angular/animations@5.2.10
 MIT
 MIT
 
-@angular/animations@5.2.10
+@angular/router@5.2.10
 MIT
 MIT
 
